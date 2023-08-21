@@ -7,4 +7,10 @@
 ## Restoring a gift from the 1013 incident. apk, I have now ported it to my computer using Python!
 
 > :warning: 再次提醒，程序仅供娱乐，学习为目的！
+> 
 > :warning: Reminder again, the program is for entertainment only and for learning purposes!
+
+> ℹ️**提醒。接下来的所有内容，我都会使用中文编写**
+
+
+
